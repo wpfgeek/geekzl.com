@@ -1,2 +1,2 @@
 # geekzl.com
-Comments for geekzl.com.
+Comments for <https://www.geekzl.com>.
